@@ -1,0 +1,8 @@
+"Wellcome in File Write"
+
+
+Write By charecters :
+Zakareai 1997 
+
+Write By Strings  :
+Zakareai 1997 
