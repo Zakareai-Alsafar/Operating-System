@@ -1,0 +1,8 @@
+"Wellcome in File Write Argv Using Function"
+
+
+Write By charecters :
+Zakareai 1997 8 7 
+
+Write By Strings :
+Zakareai 1997 8 7 
