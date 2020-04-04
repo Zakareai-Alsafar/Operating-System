@@ -1,0 +1,2 @@
+Welcome Zakareai In your File By FPRINTF
+Welcome Zakareai In your File By FPUTS
