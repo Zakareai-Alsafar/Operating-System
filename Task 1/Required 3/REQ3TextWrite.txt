@@ -1,0 +1,6 @@
+Write By charecters :
+This My Text To Write In file And Copy To Another File
+
+
+Write By Strings :
+This My Text To Write In file And Copy To Another File
